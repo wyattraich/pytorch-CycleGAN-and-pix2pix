@@ -1,0 +1,9 @@
+================ Training Loss (Tue Jan 28 13:49:47 2020) ================
+================ Training Loss (Tue Jan 28 13:50:15 2020) ================
+(epoch: 1, iters: 100, time: 0.065, data: 0.093) G_GAN: 4.282 G_L1: 2.597 D_real: 0.025 D_fake: 0.017 
+(epoch: 1, iters: 200, time: 0.065, data: 0.001) G_GAN: 5.038 G_L1: 2.117 D_real: 0.006 D_fake: 0.008 
+(epoch: 1, iters: 300, time: 0.061, data: 0.001) G_GAN: 5.819 G_L1: 2.314 D_real: 0.003 D_fake: 0.003 
+(epoch: 2, iters: 96, time: 0.104, data: 0.001) G_GAN: 6.743 G_L1: 2.107 D_real: 0.002 D_fake: 0.001 
+(epoch: 2, iters: 196, time: 0.066, data: 0.001) G_GAN: 7.204 G_L1: 1.886 D_real: 0.001 D_fake: 0.001 
+(epoch: 2, iters: 296, time: 0.065, data: 0.001) G_GAN: 7.408 G_L1: 1.717 D_real: 0.001 D_fake: 0.001 
+(epoch: 3, iters: 92, time: 0.064, data: 0.001) G_GAN: 7.632 G_L1: 1.976 D_real: 0.000 D_fake: 0.001 
